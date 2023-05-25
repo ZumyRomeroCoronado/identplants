@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "631447569906",
+    "project_id": "identplant-f3783",
+    "storage_bucket": "identplant-f3783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631447569906:android:bfed0298c5a4d471da976b",
+        "android_client_info": {
+          "package_name": "com.example.ident_plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631447569906-ocm3ud5qe1h8emcp289pbbq9c5suens6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXM9vggVkJbnjl1FDsy2HJjMvYmroAbqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631447569906-ad5feoa64j5id7ndr90utkegaiome3ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631447569906-6bll6qvffokgmpi897db6t5bq9l8crlc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.identPlant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631447569906:android:88ea5f3aa3fca652da976b",
+        "android_client_info": {
+          "package_name": "com.identplant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631447569906-ocm3ud5qe1h8emcp289pbbq9c5suens6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXM9vggVkJbnjl1FDsy2HJjMvYmroAbqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631447569906-ad5feoa64j5id7ndr90utkegaiome3ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631447569906-6bll6qvffokgmpi897db6t5bq9l8crlc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.identPlant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
